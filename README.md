@@ -1,8 +1,8 @@
 
-Mixed Reality Lab
+Computing for Interactive Arts
 =================
 
-Website for the Cal Poly Mixed Reality Lab.
+Website for the Cal Poly CIA minor.
 
 
 
