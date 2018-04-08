@@ -1,21 +1,16 @@
 - name: "Enrica Costello"
-  tag: "Lead Designer"
-  twitter: "#"
-  github: "#"
+  bio: "Enrica Lovaglio Costello was raised in Italy in hamlet by the Mediterranean sea; her deep sea diver dad taught her early on the value of knowing “how to build” her “creative projects”. She studied Architecture in Genova (Italy), urban design in Lyon (France) and media arts and technology in Santa Barbara (U.S.A.).
+Enrica is an Associate Professor in the Art and Design department at Cal Poly; visual narratives, as much as the invention of new pedagogical methods using advanced technologies and cross-disciplinary and cross-cultural models, have been at the center of her professional and pedagogical efforts. Her research interests span across connected immersive communities; virtual architecture; data visualization/access in 3D environments (VR,AR), transfer of imaginary and thought experiment into virtual worlds and experiential design for mixed reality."
   photo: "enricacostello.jpg"
 
 
 - name: "Christian Eckhardt"
-  tag: "Lead Marketer"
-  twitter: "#"
-  github: "#"
+  bio: "Christian Eckhardt is an Assistant Professor of Computer Science at California Polytechnic State University. Originally from Austria, he got his PhD from the University of Technology Vienna in Computational Physics and continued his work in parallel computing and simulation as post doc at the University of Vienna, where he was investigating electronic properties of direct semiconductors via Ab Initio simulations. Early, he discovered his passion for real time graphics not only through his work with Graphic Processing Units (GPU) but also by developing a 3D modelling and simulation software for 3D real time graphic applications. He founded the Mixed Reality Lab in fall 2017 at Cal Poly, which serves as a hub for many undergraduate and graduate research projects in Virtual Reality, Augmented Reality, Real Time Graphics, Animation, HCI and Parallel Computing."
   photo: "christianeckhardt.jpg"
 
 
 - name: "Zoë Wood"
-  tag: "Lead Developer"
-  twitter: "#"
-  github: "#"
+  bio: "Zoë Wood is an Associate Professor of Computer Science at California Polytechnic State University. Dr. Wood obtained her Ph.D. from Caltech where she studied geometric modeling. She researches and teaches in the field of computer graphics with a specific focus on geometric modeling (from acquired data), real-time computer graphics applications, scientific visualization and rendering. Dr. Wood regularly participates in numerous outreach activities including teaching for EPIC, speaking at elementary and high schools about computing along with serving as an instructor for CS4HS."
   photo: "zoewood.jpg"
 
 
