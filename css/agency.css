@@ -309,7 +309,8 @@ header.masthead .intro-text .intro-heading {
 #portfolio .portfolio-item .portfolio-link .portfolio-caption h4 {
   margin: 0;
   text-transform: none;
-  color: #FFF;
+  color: #000;
+  text-decoration: none;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
