@@ -259,6 +259,7 @@ header.masthead .intro-text .intro-heading {
   max-width: 400px;
   margin: 0 auto;
   cursor: pointer;
+  color: #FFF;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -271,6 +272,7 @@ header.masthead .intro-text .intro-heading {
   opacity: 0;
 /*   background: rgba(54, 187, 254, 0.9); */
 /*   box-shadow: 0px 0px 50px gray; */
+  color: #FFF;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
