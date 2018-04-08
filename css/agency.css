@@ -247,6 +247,7 @@ header.masthead .intro-text .intro-heading {
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
+  box-shadow: 0px 0px 50px gray;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -266,7 +267,7 @@ header.masthead .intro-text .intro-heading {
   transition: all ease 0.5s;
   opacity: 0;
 /*   background: rgba(54, 187, 254, 0.9); */
-  box-shadow: 0px 0px 50px gray;
+/*   box-shadow: 0px 0px 50px gray; */
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
