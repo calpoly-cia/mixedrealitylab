@@ -255,6 +255,8 @@ header.masthead .intro-text .intro-heading {
   max-width: 400px;
   margin: 0 auto;
   cursor: pointer;
+  text-decoration: none;
+  text-decoration-line: none;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -310,10 +312,10 @@ header.masthead .intro-text .intro-heading {
   margin: 0;
   text-transform: none;
   color: #212529;
-  text-decoration-line: none;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-caption h4:hover {
+#portfolio .portfolio-item .portfolio-link .portfolio-caption a {
+  text-decoration: none;
   text-decoration-line: none;
 }
 
