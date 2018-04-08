@@ -310,7 +310,11 @@ header.masthead .intro-text .intro-heading {
   margin: 0;
   text-transform: none;
   color: #212529;
-  text-decoration: none !important;
+  text-decoration-line: none;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-caption h4:hover {
+  text-decoration-line: none;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
