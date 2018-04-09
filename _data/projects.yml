@@ -1,3 +1,51 @@
-- name: "Enrica Costello"
-  photo: "enricacostello.jpg"
-  url: "http://amaregalileo.com"
+- title: "Kai"
+  photo: "img/portfolio/kai.png"
+  url: "http://users.csc.calpoly.edu/~alee229/KAI/"
+  
+- title: "Stargaze"
+  photo: "img/portfolio/stargaze.png"
+  url: "http://users.csc.calpoly.edu/~mboyken/stargazeSite/"
+  
+- title: "Poly Paths"
+  photo: "img/portfolio/polypaths.png"
+  url: "https://polypath.weebly.com/blog"
+  
+- title: "Post-it Platformer"
+  photo: "img/portfolio/postitplatformer.png"
+  url: "http://users.csc.calpoly.edu/~agerught/capstone/"
+  
+- title: "Demo Reel"
+  photo: "img/portfolio/zackragozzino.png"
+  url: "https://www.youtube.com/watch?v=txShSJj-GPE"
+  
+- title: "A Rude Awakening"
+  photo: "img/portfolio/mikkelsandberg.png"
+  url: "https://www.youtube.com/watch?v=4iH8vo3ZdkQ"
+  
+- title: "The Filling"
+  photo: "img/portfolio/johantonsgard.png"
+  url: "https://www.youtube.com/watch?v=ynly4_DyIvI"
+  
+- title: "Demo Reel"
+  photo: "img/portfolio/allisonlee.png"
+  url: "https://www.youtube.com/watch?v=sfq5OjQfa0M"
+  
+- title: "Color Clash"
+  photo: "img/portfolio/chriswallis.png"
+  url: "https://www.youtube.com/watch?v=VLqAls-DLpE"
+  
+- title: "Turntable"
+  photo: "img/portfolio/brentwilliams.png"
+  url: "https://www.youtube.com/watch?v=LIFbtqWj56c"
+  
+- title: "Turntable"
+  photo: "img/portfolio/beccaquant.png"
+  url: "https://www.youtube.com/watch?v=SQvq-BBbFhY"
+  
+- title: "Turntable"
+  photo: "img/portfolio/robertcrosby.png"
+  url: "https://www.youtube.com/watch?v=cEwcDl4h5Ng"
+  
+- title: "Turntable"
+  photo: "img/portfolio/kevinkondo.png"
+  url: "https://www.youtube.com/watch?v=viWDobQAgW4"
