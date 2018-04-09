@@ -190,11 +190,11 @@ header.masthead {
   background-image: url("../img/cia_intro1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
-  -webkit-background-size: auto;
-  -moz-background-size: auto;
-  -o-background-size: auto;
-  background-size: auto;
+/*   background-position: center center; */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 header.masthead .intro-text {
