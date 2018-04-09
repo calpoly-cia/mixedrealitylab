@@ -14,123 +14,21 @@ navbar: fill
       </div>
     </div>
     <div class="row">
+
+{% for project in site.data.projects %}
+
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="http://users.csc.calpoly.edu/~alee229/KAI/">
+        <a class="portfolio-link" href="{{ project.url }}">
           <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/kai.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Kai</h4>
-          </div>
+          <img class="img-fluid" src="{{ project.photo }}" alt="">
+<!--           <div class="portfolio-caption"> -->
+<!--             <h4>{{ project.title }}</h4> -->
+<!--           </div> -->
         </a>
       </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="http://users.csc.calpoly.edu/~mboyken/stargazeSite/">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/stargaze.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Stargaze</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://polypath.weebly.com/blog">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/polypaths.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Poly Paths</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="http://users.csc.calpoly.edu/~agerught/capstone/">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/postitplatformer.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Post-it Platformer</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=txShSJj-GPE">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/zackragozzino.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Demo Reel</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=4iH8vo3ZdkQ">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/mikkelsandberg.png" alt="">
-          <div class="portfolio-caption">
-            <h4>A Rude Awakening</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=ynly4_DyIvI">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/johantonsgard.png" alt="">
-          <div class="portfolio-caption">
-            <h4>The Filling</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=sfq5OjQfa0M">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/allisonlee.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Demo Reel</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=VLqAls-DLpE">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/chriswallis.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Color Clash</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=LIFbtqWj56c">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/brentwilliams.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Turntable</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=SQvq-BBbFhY">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/beccaquant.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Turntable</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=cEwcDl4h5Ng">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/robertcrosby.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Turntable</h4>
-          </div>
-        </a>
-      </div>
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" href="https://www.youtube.com/watch?v=viWDobQAgW4">
-          <div class="portfolio-hover"></div>
-          <img class="img-fluid" src="img/portfolio/kevinkondo.png" alt="">
-          <div class="portfolio-caption">
-            <h4>Turntable</h4>
-          </div>
-        </a>
-      </div>
+
+{% endfor %}
+
     </div>
   </div>
 </section>
