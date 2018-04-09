@@ -195,13 +195,13 @@ header.masthead {
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%;
-  padding-top: 500px;
-  padding-bottom: 500px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 header.masthead .intro-text {
-  padding-top: 350px;
-  padding-bottom: 300px;
+  padding-top: 150px;
+  padding-bottom: 100px;
 }
 
 header.masthead .intro-text .intro-lead-in {
@@ -222,8 +222,8 @@ header.masthead .intro-text .intro-heading {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 500px;
-    padding-bottom: 400px;
+    padding-top: 300px;
+    padding-bottom: 200px;
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
